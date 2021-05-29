@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Typeit](https://github.com/shreyas-shriyan/typeit)
 
-- 🌱 I’m currently learning **React , Node.js , Express , Mongo db**
+- 🌱 I’m currently learning **Next JS, Taiwind CSS**
 
 - 📫 How to reach me **SHREYSHRIYAN@GMAIL.COM**
 
