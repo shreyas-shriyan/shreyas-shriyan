@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyas Shriyan</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer At DROR</h3>
 
 - 🔭 I’m currently working on [suddisanchalana.com](https://suddisanchalana.com)
 
-- 🌱 I’m currently learning **Next JS, Taiwind CSS**
+- 🌱 I’m currently learning **Three JS**
 
 - 📫 How to reach me **SHREYSHRIYAN@GMAIL.COM**
 
