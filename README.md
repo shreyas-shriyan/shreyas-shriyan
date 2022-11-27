@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Simple Stocks](https://github.com/shreyas-shriyan/simple-stocks)
 
-- 🌱 I’m currently learning **Three JS**
+- 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **SHREYSHRIYAN@GMAIL.COM**
+- 📫 How to reach me **shreyshriyan@gmail.com**
 
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-shriyan&layout=compact&theme=radical" alt="shreyas-shriyan" /></p>
 
