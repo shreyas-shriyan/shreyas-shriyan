@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Simple Stocks](https://github.com/shreyas-shriyan/simple-stocks)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust)
 
 - 📫 How to reach me **shreyshriyan@gmail.com**
 
