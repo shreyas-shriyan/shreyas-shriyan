@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Simple Stocks](https://github.com/shreyas-shriyan/simple-stocks)
 
-- 🌱 I’m currently learning [Typescript](https://github.com/microsoft/TypeScript)
+- 🌱 I’m currently learning [TypeScript](https://github.com/microsoft/TypeScript)
 
 - 📫 How to reach me **shreyshriyan@gmail.com**
 
