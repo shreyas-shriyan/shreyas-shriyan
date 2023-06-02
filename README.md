@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Shriyan</h1>
 <h3 align="center">Full Stack Developer At DROR</h3>
 
-- 🔭 I’m currently working on [Simple Stocks](https://github.com/shreyas-shriyan/simple-stocks)
+- 🔭 I’m currently working on [Medium Reader](https://github.com/shreyas-shriyan/medium-reader)
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 
